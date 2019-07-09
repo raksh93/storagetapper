@@ -26,7 +26,7 @@ import (
 	"math/rand"
 	"strings"
 
-	"github.com/satori/go.uuid"
+	"github.com/raksh93/go.uuid"
 	"github.com/raksh93/storagetapper/db"
 	"github.com/raksh93/storagetapper/log"
 	"github.com/raksh93/storagetapper/types"
