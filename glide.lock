@@ -5,12 +5,6 @@ imports:
   version: 1139cdac1a56e404b5382e3a3503a2c587d2c0c3
   subpackages:
   - statsd
-- name: github.com/colinmarc/hdfs
-  version: 69e5098fa51e208a466aef9a5283b0101e6e4f54
-  subpackages:
-  - protocol/hadoop_common
-  - protocol/hadoop_hdfs
-  - rpc
 - name: github.com/davecgh/go-spew
   version: 346938d642f2ec3594ed81d874461961cd0faa76
   subpackages:
