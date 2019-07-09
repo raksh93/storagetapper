@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/uber/storagetapper/encoder"
+	"github.com/raksh93/storagetapper/encoder"
 )
 
 //Reader is our contract for snapshot reader

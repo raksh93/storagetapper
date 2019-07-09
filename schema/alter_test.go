@@ -4,10 +4,10 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/uber/storagetapper/db"
-	"github.com/uber/storagetapper/log"
-	"github.com/uber/storagetapper/test"
-	"github.com/uber/storagetapper/types"
+	"github.com/raksh93/storagetapper/db"
+	"github.com/raksh93/storagetapper/log"
+	"github.com/raksh93/storagetapper/test"
+	"github.com/raksh93/storagetapper/types"
 )
 
 func TestAlterAvro(t *testing.T) {

@@ -23,7 +23,7 @@ package encoder
 import (
 	"fmt"
 
-	"github.com/uber/storagetapper/config"
+	"github.com/raksh93/storagetapper/config"
 )
 
 //This init must be called after all inits in the package, allowing all encoders

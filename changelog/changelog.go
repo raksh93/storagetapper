@@ -1,10 +1,10 @@
 package changelog
 
 import (
-	"github.com/uber/storagetapper/config"
-	"github.com/uber/storagetapper/log"
-	"github.com/uber/storagetapper/pipe"
-	"github.com/uber/storagetapper/pool"
+	"github.com/raksh93/storagetapper/config"
+	"github.com/raksh93/storagetapper/log"
+	"github.com/raksh93/storagetapper/pipe"
+	"github.com/raksh93/storagetapper/pool"
 	"golang.org/x/net/context" //"context"
 )
 

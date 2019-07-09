@@ -25,10 +25,10 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/uber/storagetapper/db"
-	"github.com/uber/storagetapper/encoder"
-	"github.com/uber/storagetapper/log"
-	"github.com/uber/storagetapper/types"
+	"github.com/raksh93/storagetapper/db"
+	"github.com/raksh93/storagetapper/encoder"
+	"github.com/raksh93/storagetapper/log"
+	"github.com/raksh93/storagetapper/types"
 )
 
 //MySQLmysqlReader is a snapshot reader structure

@@ -24,7 +24,7 @@ import (
 	"bytes"
 	"text/template"
 
-	"github.com/uber/storagetapper/types"
+	"github.com/raksh93/storagetapper/types"
 )
 
 func getTopicName(template *template.Template, tloc *types.TableLoc) (string, error) {

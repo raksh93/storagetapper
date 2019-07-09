@@ -23,7 +23,7 @@ package test
 import (
 	"testing"
 
-	"github.com/uber/storagetapper/shutdown"
+	"github.com/raksh93/storagetapper/shutdown"
 )
 
 func TestWaitForNumProc(t *testing.T) {

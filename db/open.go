@@ -25,7 +25,7 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/uber/storagetapper/log"
+	"github.com/raksh93/storagetapper/log"
 )
 
 //GetInfoFunc is a type to implement db address resolver polymorhism

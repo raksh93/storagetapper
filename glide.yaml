@@ -1,4 +1,4 @@
-package: github.com/uber/storagetapper
+package: github.com/raksh93/storagetapper
 import:
 - package: github.com/go-sql-driver/mysql
   version: v1.3

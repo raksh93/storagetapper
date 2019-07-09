@@ -23,8 +23,8 @@ package test
 import (
 	"testing"
 
-	"github.com/uber/storagetapper/db"
-	"github.com/uber/storagetapper/types"
+	"github.com/raksh93/storagetapper/db"
+	"github.com/raksh93/storagetapper/types"
 
 	_ "github.com/go-sql-driver/mysql"
 )

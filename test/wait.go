@@ -23,7 +23,7 @@ package test
 import (
 	"time"
 
-	"github.com/uber/storagetapper/shutdown"
+	"github.com/raksh93/storagetapper/shutdown"
 )
 
 //WaitForNumProc waits when number of running procs registered in shutdown

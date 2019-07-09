@@ -24,7 +24,7 @@ import (
 	"bytes"
 
 	"github.com/tinylib/msgp/msgp"
-	"github.com/uber/storagetapper/types"
+	"github.com/raksh93/storagetapper/types"
 )
 
 func init() {

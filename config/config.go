@@ -25,7 +25,7 @@ import (
 	"runtime"
 	"text/template"
 
-	"github.com/uber/storagetapper/types"
+	"github.com/raksh93/storagetapper/types"
 )
 
 // AppConfigODS is the config struct which the config gets loaded into

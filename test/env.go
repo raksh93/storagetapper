@@ -30,12 +30,12 @@ import (
 
 	"github.com/Shopify/sarama"
 
-	"github.com/uber/storagetapper/config"
-	"github.com/uber/storagetapper/db"
-	"github.com/uber/storagetapper/log"
-	"github.com/uber/storagetapper/metrics"
-	"github.com/uber/storagetapper/types"
-	"github.com/uber/storagetapper/util"
+	"github.com/raksh93/storagetapper/config"
+	"github.com/raksh93/storagetapper/db"
+	"github.com/raksh93/storagetapper/log"
+	"github.com/raksh93/storagetapper/metrics"
+	"github.com/raksh93/storagetapper/types"
+	"github.com/raksh93/storagetapper/util"
 )
 
 var cfg *config.AppConfig

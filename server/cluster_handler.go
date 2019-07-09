@@ -26,9 +26,9 @@ import (
 
 	"errors"
 
-	"github.com/uber/storagetapper/db"
-	"github.com/uber/storagetapper/log"
-	"github.com/uber/storagetapper/state"
+	"github.com/raksh93/storagetapper/db"
+	"github.com/raksh93/storagetapper/log"
+	"github.com/raksh93/storagetapper/state"
 )
 
 //clusterInfoReq body of register/deregister cluster request

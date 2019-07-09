@@ -29,9 +29,9 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/uber/storagetapper/db"
-	"github.com/uber/storagetapper/log"
-	"github.com/uber/storagetapper/types"
+	"github.com/raksh93/storagetapper/db"
+	"github.com/raksh93/storagetapper/log"
+	"github.com/raksh93/storagetapper/types"
 )
 
 /*Lock is general distributed lock interface*/

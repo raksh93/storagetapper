@@ -30,7 +30,7 @@ import (
 
 	yaml "gopkg.in/yaml.v2"
 
-	"github.com/uber/storagetapper/types"
+	"github.com/raksh93/storagetapper/types"
 )
 
 /*This is just tests that nothing crashes*/

@@ -43,8 +43,8 @@ import (
 	"time"
 
 	"github.com/fsnotify/fsnotify"
-	"github.com/uber/storagetapper/config"
-	"github.com/uber/storagetapper/log"
+	"github.com/raksh93/storagetapper/config"
+	"github.com/raksh93/storagetapper/log"
 )
 
 //TODO: Support reading file currently open by producer

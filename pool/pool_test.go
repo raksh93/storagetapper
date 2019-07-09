@@ -27,9 +27,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/uber/storagetapper/config"
-	"github.com/uber/storagetapper/log"
-	"github.com/uber/storagetapper/test"
+	"github.com/raksh93/storagetapper/config"
+	"github.com/raksh93/storagetapper/log"
+	"github.com/raksh93/storagetapper/test"
 )
 
 var cfg *config.AppConfig

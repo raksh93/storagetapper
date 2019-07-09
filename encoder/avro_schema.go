@@ -25,8 +25,8 @@ import (
 	"fmt"
 
 	"github.com/linkedin/goavro"
-	"github.com/uber/storagetapper/types"
-	"github.com/uber/storagetapper/util"
+	"github.com/raksh93/storagetapper/types"
+	"github.com/raksh93/storagetapper/util"
 )
 
 const (

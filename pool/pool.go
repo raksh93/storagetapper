@@ -23,8 +23,8 @@ package pool
 import (
 	"sync"
 
-	"github.com/uber/storagetapper/log"
-	"github.com/uber/storagetapper/shutdown"
+	"github.com/raksh93/storagetapper/log"
+	"github.com/raksh93/storagetapper/shutdown"
 )
 
 /*Thread is an implementation of pool interface */

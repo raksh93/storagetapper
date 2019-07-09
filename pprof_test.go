@@ -25,11 +25,11 @@ import (
 	"testing"
 	"time"
 
-	"github.com/uber/storagetapper/db"
-	"github.com/uber/storagetapper/shutdown"
-	"github.com/uber/storagetapper/test"
-	"github.com/uber/storagetapper/types"
-	"github.com/uber/storagetapper/util"
+	"github.com/raksh93/storagetapper/db"
+	"github.com/raksh93/storagetapper/shutdown"
+	"github.com/raksh93/storagetapper/test"
+	"github.com/raksh93/storagetapper/types"
+	"github.com/raksh93/storagetapper/util"
 
 	_ "net/http/pprof"
 )

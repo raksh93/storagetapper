@@ -24,7 +24,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/uber/storagetapper/types"
+	"github.com/raksh93/storagetapper/types"
 )
 
 //encoderConstructor initializes encoder plugin

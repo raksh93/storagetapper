@@ -26,9 +26,9 @@ import (
 	"strings"
 
 	"github.com/linkedin/goavro"
-	"github.com/uber/storagetapper/log"
-	"github.com/uber/storagetapper/state"
-	"github.com/uber/storagetapper/types"
+	"github.com/raksh93/storagetapper/log"
+	"github.com/raksh93/storagetapper/state"
+	"github.com/raksh93/storagetapper/types"
 )
 
 const numMetadataFields = 3

@@ -24,7 +24,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/uber/storagetapper/log"
+	"github.com/raksh93/storagetapper/log"
 )
 
 func init() {

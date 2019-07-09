@@ -29,7 +29,7 @@ import (
 	"time"
 
 	"github.com/go-sql-driver/mysql"
-	"github.com/uber/storagetapper/log"
+	"github.com/raksh93/storagetapper/log"
 )
 
 var h *http.Client

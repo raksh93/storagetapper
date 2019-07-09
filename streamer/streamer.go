@@ -25,16 +25,16 @@ import (
 	"time"
 
 	"github.com/siddontang/go-mysql/mysql"
-	"github.com/uber/storagetapper/changelog"
-	"github.com/uber/storagetapper/config"
-	"github.com/uber/storagetapper/db"
-	"github.com/uber/storagetapper/encoder"
-	"github.com/uber/storagetapper/lock"
-	"github.com/uber/storagetapper/log"
-	"github.com/uber/storagetapper/metrics"
-	"github.com/uber/storagetapper/pipe"
-	"github.com/uber/storagetapper/shutdown"
-	"github.com/uber/storagetapper/state"
+	"github.com/raksh93/storagetapper/changelog"
+	"github.com/raksh93/storagetapper/config"
+	"github.com/raksh93/storagetapper/db"
+	"github.com/raksh93/storagetapper/encoder"
+	"github.com/raksh93/storagetapper/lock"
+	"github.com/raksh93/storagetapper/log"
+	"github.com/raksh93/storagetapper/metrics"
+	"github.com/raksh93/storagetapper/pipe"
+	"github.com/raksh93/storagetapper/shutdown"
+	"github.com/raksh93/storagetapper/state"
 )
 
 //Streamer struct defines common properties of Event streamer worker

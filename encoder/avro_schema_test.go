@@ -25,8 +25,8 @@ import (
 
 	"encoding/json"
 
-	"github.com/uber/storagetapper/test"
-	"github.com/uber/storagetapper/types"
+	"github.com/raksh93/storagetapper/test"
+	"github.com/raksh93/storagetapper/types"
 )
 
 /*

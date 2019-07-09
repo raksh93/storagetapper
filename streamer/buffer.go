@@ -25,12 +25,12 @@ import (
 	"sync"
 	"time"
 
-	"github.com/uber/storagetapper/encoder"
-	"github.com/uber/storagetapper/log"
-	"github.com/uber/storagetapper/pipe"
-	"github.com/uber/storagetapper/shutdown"
-	"github.com/uber/storagetapper/state"
-	"github.com/uber/storagetapper/types"
+	"github.com/raksh93/storagetapper/encoder"
+	"github.com/raksh93/storagetapper/log"
+	"github.com/raksh93/storagetapper/pipe"
+	"github.com/raksh93/storagetapper/shutdown"
+	"github.com/raksh93/storagetapper/state"
+	"github.com/raksh93/storagetapper/types"
 )
 
 func (s *Streamer) getTag() map[string]string {

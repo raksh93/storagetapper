@@ -25,8 +25,8 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/uber/storagetapper/db"
-	"github.com/uber/storagetapper/types"
+	"github.com/raksh93/storagetapper/db"
+	"github.com/raksh93/storagetapper/types"
 )
 
 //HeatpipeNamespace is the namespace used in Avro schema

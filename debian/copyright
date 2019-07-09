@@ -1,6 +1,6 @@
 Format: https:www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: Storagetapper
-Source: https:github.com/uber/storagetapper
+Source: https:github.com/raksh93/storagetapper
 
 Files: *
 Copyright: 2017 Uber Technologies, Inc.

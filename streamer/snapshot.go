@@ -23,13 +23,13 @@ package streamer
 import (
 	"time"
 
-	"github.com/uber/storagetapper/log"
-	"github.com/uber/storagetapper/metrics"
-	"github.com/uber/storagetapper/pipe"
-	"github.com/uber/storagetapper/shutdown"
-	"github.com/uber/storagetapper/snapshot"
-	"github.com/uber/storagetapper/state"
-	"github.com/uber/storagetapper/throttle"
+	"github.com/raksh93/storagetapper/log"
+	"github.com/raksh93/storagetapper/metrics"
+	"github.com/raksh93/storagetapper/pipe"
+	"github.com/raksh93/storagetapper/shutdown"
+	"github.com/raksh93/storagetapper/snapshot"
+	"github.com/raksh93/storagetapper/state"
+	"github.com/raksh93/storagetapper/throttle"
 )
 
 var numRetries = 5

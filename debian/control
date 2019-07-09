@@ -5,7 +5,7 @@ Uploaders: Evgeniy Firsov <firsov@uber.com>,
 Build-Depends: debhelper (>= 9), dh-systemd
 Standards-Version: 3.9.8
 Section: utils
-Homepage: https://github.com/uber/storagetapper
+Homepage: https://github.com/raksh93/storagetapper
 
 Package: storagetapper
 Architecture: any

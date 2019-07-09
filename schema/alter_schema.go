@@ -27,10 +27,10 @@ import (
 	"strings"
 
 	"github.com/satori/go.uuid"
-	"github.com/uber/storagetapper/db"
-	"github.com/uber/storagetapper/log"
-	"github.com/uber/storagetapper/types"
-	"github.com/uber/storagetapper/util"
+	"github.com/raksh93/storagetapper/db"
+	"github.com/raksh93/storagetapper/log"
+	"github.com/raksh93/storagetapper/types"
+	"github.com/raksh93/storagetapper/util"
 )
 
 // GetAvroSchemaFromAlterTable is called by the schema change endpoint. It takes in an ALTER TABLE

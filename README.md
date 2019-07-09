@@ -9,7 +9,7 @@ serialized format, and publishes these events to Kafka. Consumers can then
 consume these events directly from Kafka.
 
 [![Build Status](https://travis-ci.org/uber/storagetapper.svg?branch=master)](https://travis-ci.org/uber/storagetapper)
-[![Go Report Card](https://goreportcard.com/badge/github.com/uber/storagetapper)](https://goreportcard.com/report/github.com/uber/storagetapper)
+[![Go Report Card](https://goreportcard.com/badge/github.com/raksh93/storagetapper)](https://goreportcard.com/report/github.com/raksh93/storagetapper)
 [![codecov](https://codecov.io/gh/uber/storagetapper/branch/master/graph/badge.svg)](https://codecov.io/gh/uber/storagetapper)
 
 - [Features](#features)

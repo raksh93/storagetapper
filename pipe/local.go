@@ -25,7 +25,7 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/uber/storagetapper/config"
+	"github.com/raksh93/storagetapper/config"
 	"golang.org/x/net/context" //"context"
 )
 

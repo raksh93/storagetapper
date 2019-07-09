@@ -25,11 +25,11 @@ import (
 	"errors"
 	"net/http"
 
-	"github.com/uber/storagetapper/db"
-	"github.com/uber/storagetapper/encoder"
-	"github.com/uber/storagetapper/log"
-	"github.com/uber/storagetapper/schema"
-	"github.com/uber/storagetapper/state"
+	"github.com/raksh93/storagetapper/db"
+	"github.com/raksh93/storagetapper/encoder"
+	"github.com/raksh93/storagetapper/log"
+	"github.com/raksh93/storagetapper/schema"
+	"github.com/raksh93/storagetapper/state"
 )
 
 //SchemaRegReq defines the body format for a schema registration request

@@ -21,7 +21,7 @@
 package db
 
 import (
-	"github.com/uber/storagetapper/log"
+	"github.com/raksh93/storagetapper/log"
 )
 
 /*Addr contains information required to db to DB */

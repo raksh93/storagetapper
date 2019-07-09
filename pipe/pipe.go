@@ -26,7 +26,7 @@ import (
 	"golang.org/x/net/context" //"context"
 	"strings"
 
-	"github.com/uber/storagetapper/config"
+	"github.com/raksh93/storagetapper/config"
 )
 
 //Consumer consumer interface for the pipe

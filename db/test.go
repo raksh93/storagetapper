@@ -20,7 +20,7 @@
 
 package db
 
-import "github.com/uber/storagetapper/types"
+import "github.com/raksh93/storagetapper/types"
 
 //GetInfoForTest return address of local MySQL used by tests
 func GetInfoForTest(dbl *Loc, tp int) *Addr {

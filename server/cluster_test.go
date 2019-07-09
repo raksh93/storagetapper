@@ -27,9 +27,9 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	"github.com/uber/storagetapper/state"
-	"github.com/uber/storagetapper/test"
-	"github.com/uber/storagetapper/types"
+	"github.com/raksh93/storagetapper/state"
+	"github.com/raksh93/storagetapper/test"
+	"github.com/raksh93/storagetapper/types"
 )
 
 func clustersTableInit(t *testing.T) {

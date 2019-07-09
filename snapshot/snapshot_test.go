@@ -4,7 +4,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/uber/storagetapper/test"
+	"github.com/raksh93/storagetapper/test"
 )
 
 func TestCreateNonExistent(t *testing.T) {

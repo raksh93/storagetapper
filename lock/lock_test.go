@@ -26,8 +26,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/uber/storagetapper/db"
-	"github.com/uber/storagetapper/test"
+	"github.com/raksh93/storagetapper/db"
+	"github.com/raksh93/storagetapper/test"
 
 	_ "github.com/go-sql-driver/mysql"
 )

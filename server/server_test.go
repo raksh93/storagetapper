@@ -30,13 +30,13 @@ import (
 	"os"
 	"testing"
 
-	"github.com/uber/storagetapper/config"
-	"github.com/uber/storagetapper/db"
-	"github.com/uber/storagetapper/encoder"
-	"github.com/uber/storagetapper/log"
-	"github.com/uber/storagetapper/state"
-	"github.com/uber/storagetapper/test"
-	"github.com/uber/storagetapper/types"
+	"github.com/raksh93/storagetapper/config"
+	"github.com/raksh93/storagetapper/db"
+	"github.com/raksh93/storagetapper/encoder"
+	"github.com/raksh93/storagetapper/log"
+	"github.com/raksh93/storagetapper/state"
+	"github.com/raksh93/storagetapper/test"
+	"github.com/raksh93/storagetapper/types"
 
 	_ "github.com/go-sql-driver/mysql"
 )
